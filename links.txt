@@ -1,0 +1,4 @@
+https://www.transifex.com/habitrpg/habitrpg/
+https://www.transifex.com/habitrpg/habitrpg/language/ro/ac
+https://www.transifex.com/habitrpg/habitrpg/glossary/ro/
+
